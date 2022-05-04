@@ -1,37 +1,49 @@
-# curriculum-databases-projects-template
+# Clinic
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+## Description
 
+> "Clinic Database" is a project where I use a relational database to create the initial data structure for a clinic that includes a tables about the Clinic.
+The schema_based_on_digram.sql created based on a diagram automaticaly.
+
+## Diagram
+
+![Clinic Diagram](./drawSQL-export-2022-05-04_09_21.png)
 
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Use [schema.sql](https://github.com/souad988/clinic/blob/database_from_diagram/schema_based_on_diagram.sql) to create all tables.
 
+This project is build with:
+
+- SQL
+
+To get the content of this project locally you need to run these commands in your terminal.
+Before starting the steps below, be sure you have [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/).
+1. `git clone https://github.com/souad988/clinic.git`
+2. `cd clinic`
 
 ## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Souad El Mansouri**
 
-👤 **Author2**
+- GitHub: [@souad988](https://github.com/souad988)
+- Twitter: [@souadElmansouri](@souadElmansouri)
+- LinkedIn: [Souad el mansouri](https://www.linkedin.com/in/souad-el-mansouri/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Candy Inga Cynthia**
+
+- GitHub: [@cynthiainga](https://github.com/cynthiainga)
+- Twitter: [@CynthiaInga_C](https://twitter.com/CynthiaInga_C)
+- LinkedIn: [Cynthia Inga](https://www.linkedin.com/in/cynthia-inga/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/souad988/clinic/issues).
 
 ## Show your support
 
@@ -39,9 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to everyone who will get time to check this project especially to code reviewers.
 
 ## 📝 License
 

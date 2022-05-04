@@ -1,5 +1,3 @@
-
-
 CREATE TABLE "patients"(
     "id" INTEGER NOT NULL,
     "name" VARCHAR(255) NOT NULL,
