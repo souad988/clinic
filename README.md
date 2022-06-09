@@ -33,11 +33,13 @@ Before starting the steps below, be sure you have [Git](https://www.linode.com/d
 - Twitter: [@souadElmansouri](@souadElmansouri)
 - LinkedIn: [Souad el mansouri](https://www.linkedin.com/in/souad-el-mansouri/)
 
+
 👤 **Candy Inga Cynthia**
 
 - GitHub: [@cynthiainga](https://github.com/cynthiainga)
 - Twitter: [@CynthiaInga_C](https://twitter.com/CynthiaInga_C)
 - LinkedIn: [Cynthia Inga](https://www.linkedin.com/in/cynthia-inga/)
+
 
 ## 🤝 Contributing
 
